@@ -11,6 +11,10 @@ package prueba2;
  */
 public class Prueba2 {
 
+    public Prueba2() {
+    }
+ // Este es el Cambio De Diego Garro
+    
     /**
      * @param args the command line arguments
      */
@@ -19,6 +23,7 @@ public class Prueba2 {
         
         // Este es el Cambio De Diego Garro
         System.out.print("Hola mundo");
+        
     }
     
 }
